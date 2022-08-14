@@ -10,5 +10,5 @@ What I have done:
 - Then I have connected the old domain they have (augfb.org) with the repo so both domains will open the same page
 
 Results:
-https://arabiangroup.net/
-https://augfb.org/
+- https://arabiangroup.net/
+- https://augfb.org/
